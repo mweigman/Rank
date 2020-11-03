@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a61bdbd-f0df-49ee-8479-5dba4b94ac05" name="Default Changelist" comment="" />
+    <list default="true" id="6a61bdbd-f0df-49ee-8479-5dba4b94ac05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/greeting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jl9wrVZ1YSeu5M42AmpXfG21Tq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604368053111</updated>
-      <workItem from="1604368054384" duration="5841000" />
+      <workItem from="1604368054384" duration="7115000" />
     </task>
     <servers />
   </component>
@@ -47,6 +55,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="632" y="380" key="Github.ShareDialog" timestamp="1604375416051">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="632" y="380" key="Github.ShareDialog/0.0.1504.963@0.0.1504.963" timestamp="1604375416051" />
+    <state x="509" y="187" key="Github.UntrackedFilesDialog" timestamp="1604375421923">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="509" y="187" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1604375421923" />
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1604375427250">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1604375427250" />
     <state x="395" y="284" width="672" height="678" key="search.everywhere.popup" timestamp="1604375153926">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
