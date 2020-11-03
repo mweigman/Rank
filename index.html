@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Rank Greeting</title>
+</head>
+<body>
+<div class="container w-50">
+
+    <h1>Confirm your Ranking</h1>
+
+    <form>
+
+        <input type="radio" name="rank" id="rank-srgt" data-color="red">
+        <label for="rank-srgt">Sergent</label>
+
+        <br>
+
+        <input type="radio" name="rank" id="rank-cpt" data-color="green">
+        <label for="rank-cpt">Capitan</label>
+
+        <br>
+
+        <input type="radio" name="rank" id="rank-lt" data-color="blue">
+        <label for="rank-lt">Lieutenant</label>
+
+        <br>
+
+        <label for="firstName">First Name</label>
+        <input type="text" id="firstName">
+
+        <br>
+
+        <label for="lastName">Last Name</label>
+        <input type="text" id="lastName">
+
+        <br>
+
+        <button>Commit Identification</button>
+
+    </form>
+
+    <p id="output">Salutations, <span id="salutations"></span>!!!!!</p>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.js"
+integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+crossorigin="anonymous">
+
+</script>
+
+
+<script src="greeting.js"></script>
+</body>
+</html>
